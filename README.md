@@ -1,6 +1,6 @@
 # Galadh Analytics
 
-Building bridges between data chaos and decision clarity.
+Building bridges between data chaos and decision clarity. 🔮
 
 ## About Us
 
