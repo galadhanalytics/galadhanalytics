@@ -35,7 +35,7 @@ We welcome contributions from the analytics community. Please check our contribu
 ## Get in Touch
 
 - Website: [galadh.com](https://galadh.com)
-- LinkedIn: [Galadh Analytics](https://www.linkedin.com/company/galadh-analytics)
+- LinkedIn: [Galadh Analytics](https://www.linkedin.com/company/galadh-analytics/about/)
 
 ## License 📄
 
