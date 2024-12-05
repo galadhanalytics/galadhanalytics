@@ -10,7 +10,7 @@ Galadh Analytics is a data science and analytics consulting firm specializing in
 - 🤖 Data analytics and machine learning solutions
 - 🏛️ Public sector analytics and capacity building
 
-Based in Estonia, we serve international, public, and private organizations across Eurasia through evidence-based decision making and analytical excellence.
+Registered in Estonia, we serve international, public, and private organizations across Eurasia through evidence-based decision making and analytical excellence.
 
 ## Our Open Source Projects
 
